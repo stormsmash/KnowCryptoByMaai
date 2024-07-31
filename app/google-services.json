@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777471210922",
+    "project_id": "testfirebase-72a82",
+    "storage_bucket": "testfirebase-72a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777471210922:android:8057a726f8be382469e7d3",
+        "android_client_info": {
+          "package_name": "com.example.knowcryptobymaai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777471210922-b0fpthtgc2s5fgpakk2b9lijp7kvq936.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdOU1i2O9-2RoOQC-qigTxMuohCfuk54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777471210922-b0fpthtgc2s5fgpakk2b9lijp7kvq936.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_learn"
+        android:icon="@drawable/bookicon"
+        android:title="CrptoCurrency"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_quiz"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/quizicon"
+        android:title="Quiz" />
+    <item
+        android:id="@+id/action_game"
+        android:icon="@drawable/gameicon"
+        android:title="PRICELIST"
+        app:showAsAction="ifRoom" />
+
+</menu>
+
